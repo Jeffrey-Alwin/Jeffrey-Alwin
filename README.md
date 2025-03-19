@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeffrey-Alwin,
 - 👀 I’m currently interested in Development
-- 🌱 I’m currently learning various Development tools
+- 🌱 I’m currently learning various Development tools and languages 
 - 📫 How to reach me ...Emailme @jeffreyalwin7@gmail.com 
 
 <!---
